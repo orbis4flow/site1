@@ -1,5 +1,5 @@
 /* ============================================================
-   KoraBinary, AI scanner
+   KivoBinary, AI scanner
    Reads the recent tick history of every instrument, scores each
    digit contract it could write against that instrument, and
    surfaces the strongest edge it finds. The chosen signal can be

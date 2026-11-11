@@ -1,5 +1,5 @@
 /* ============================================================
-   KoraBinary, formatting
+   KivoBinary, formatting
    One place for money, numbers, percentages and time so locale
    and currency changes never have to be chased through views.
    ============================================================ */

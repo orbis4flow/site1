@@ -13,7 +13,7 @@
    a claim anyone should rely on.
    ============================================================ */
 window.NEXAS_CONFIG = {
-  /* The same API as Novi: KoraBinary is a second front end on one
+  /* The same API as Novi: KivoBinary is a second front end on one
      backend, so accounts, balances and payments are shared. */
   apiBase: 'https://sitesbackend.onrender.com',
 
@@ -41,6 +41,6 @@ window.NEXAS_CONFIG = {
 window.NEXAS_API = window.NEXAS_API || window.NEXAS_CONFIG.apiBase;
 
 /* The brand, for the shell: the rail's mark and the Trade glyph. */
-window.NEX_BRAND = 'KoraBinary';
+window.NEX_BRAND = 'KivoBinary';
 window.NEX_MARK = 'kb';
 window.NEX_TRADE_ICON = 'trade';

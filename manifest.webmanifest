@@ -1,6 +1,6 @@
 {
-  "name": "KoraBinary Terminal",
-  "short_name": "KoraBinary",
+  "name": "KivoBinary Terminal",
+  "short_name": "KivoBinary",
   "description": "Trade synthetic indices from your phone.",
   "start_url": "index.html",
   "scope": ".",

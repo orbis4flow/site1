@@ -1,5 +1,5 @@
 /* ============================================================
-   KoraBinary, terminal
+   KivoBinary, terminal
    Renders the contract panel for the selected trade type, runs
    validation, places and sells contracts, drives the automated
    run loop, and keeps the chart, digits and open positions in
