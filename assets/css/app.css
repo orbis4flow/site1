@@ -5192,3 +5192,13 @@ html body .shell > .ctabs .ctab:last-child{border-right:0!important}
 html body .shell > .ctabs .ctab.active{color:var(--text)!important;background:var(--surface-2)!important}
 html body .shell > .ctabs > :not(.ctab){display:none!important}
 html:root[data-theme] body .shell > .ctabs .ctab.active,html body .shell > .ctabs .ctab.active{color:var(--text)!important;background:var(--surface-2)!important}
+
+/* ---- buttons: a slight curve, not a pill ---- */
+:root{--btn-r:6px}
+html body .btn-primary,html body .btn-quiet,html body .btn,html body .btn-ghost,html body .btn-fill,html body .wd-go,
+html body .tbtn,html body .quick button,html body .acct,html body .chart-tools button,html body .chart-card .tf button,
+html body .chart-head .sel-btn,html body .stake,html body .hero-close,html body .tour-next,
+html body .topbar .btn-primary,html body .topbar .btn-quiet,html body .topbar .acct{border-radius:var(--btn-r)!important}
+html body .ctabs,html body .panel .seg,html body .shell > .ctabs{border-radius:var(--btn-r)!important;overflow:hidden}
+html body .panel{border-radius:var(--btn-r)!important;overflow:hidden}
+html body .panel .seg{border-radius:0!important}
